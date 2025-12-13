@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
