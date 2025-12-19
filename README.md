@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
