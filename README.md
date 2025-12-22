@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -54,9 +57,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
