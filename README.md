@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
