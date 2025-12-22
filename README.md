@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0342-power-of-four) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
