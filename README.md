@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
