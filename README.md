@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
