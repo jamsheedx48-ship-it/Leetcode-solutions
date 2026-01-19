@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0507-perfect-number) |
+| [1952-three-divisors](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 ## Array
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
