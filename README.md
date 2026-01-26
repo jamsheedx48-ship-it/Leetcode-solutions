@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0412-fizz-buzz](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0151-reverse-words-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
