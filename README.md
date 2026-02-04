@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0231-power-of-two) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0136-single-number) |
