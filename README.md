@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3668-restore-finishing-order](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Enumeration
 |  |
 | ------- |
