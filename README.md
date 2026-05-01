@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -187,8 +189,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
