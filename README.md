@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0771-jewels-and-stones](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [3668-restore-finishing-order](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
