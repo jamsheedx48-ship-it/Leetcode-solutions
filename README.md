@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 ## Simulation
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
