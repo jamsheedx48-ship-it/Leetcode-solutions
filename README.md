@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Simulation
 |  |
@@ -231,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
