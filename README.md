@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1672-richest-customer-wealth](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
