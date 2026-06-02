@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2129-capitalize-the-title](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/3110-score-of-a-string) |
