@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
