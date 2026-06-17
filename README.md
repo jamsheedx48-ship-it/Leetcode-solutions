@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
