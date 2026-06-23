@@ -271,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
