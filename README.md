@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2129-capitalize-the-title](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/2129-capitalize-the-title) |
