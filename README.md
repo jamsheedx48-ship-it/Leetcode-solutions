@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1816-truncate-sentence) |
