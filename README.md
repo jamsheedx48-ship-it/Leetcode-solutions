@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/jamsheedx48-ship-it/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
