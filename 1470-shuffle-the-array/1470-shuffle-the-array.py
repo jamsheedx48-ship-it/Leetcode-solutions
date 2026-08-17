@@ -4,7 +4,7 @@ class Solution:
         b=nums[n:]
         out=[]
 
-        for i in range(len(a)):
+        for i in range(n):
             out.append(a[i])
             out.append(b[i])
 
